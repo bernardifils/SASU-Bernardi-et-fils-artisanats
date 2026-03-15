@@ -170,7 +170,7 @@ html
     <h3>Contact</h3>
     <div class="contact">
       <p>📞 <a href="tel:+33659948495">06 59 94 84 95</a><br />
-         📧 <a href="mailto:contact.bernardiartisanats@gmail.com">contact.bernardiartisanats@gmail.com</a></p>
+         📧 <a href="mailto:.bernardilionel69@gmail.com">bernardilionel69@gmail.com</a></p>
       <p>Nous répondrons rapidement à toutes vos demandes de devis ou de renseignements.</p>
     </div>
   </section>
