@@ -1,7 +1,5 @@
 # SASU-Bernardi-et-fils-artisanats
-html
-
-
+http://www.bernardietfils-artisanat.fr
 <!DOCTYPE html>
 <html lang="fr">
 <head>
