@@ -1,4 +1,4 @@
-# SASU-Bernardi-et-fils-artisanats
+# SASU-Bernardi-et-fils-artisanats.github.com
 https://github.com/bernardifils/SASU-Bernardi-et-fils-artisanats.git
 <!DOCTYPE html>
 <html lang="fr">
