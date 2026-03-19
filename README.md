@@ -1,5 +1,5 @@
 #bernardietfils.info
-html
+<html
 <!DOCTYPE html>
 html/
 <!DOCTYPE html>
