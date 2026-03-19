@@ -1,4 +1,5 @@
 #bernardietfils.info
+html
 https://github.com/bernardifils/SASU-Bernardi-et-fils-artisanats.git
 <!DOCTYPE html>
 <html lang="fr">
